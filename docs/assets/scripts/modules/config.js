@@ -1,1 +1,0 @@
-let  config = {    apiKey: "AIzaSyBGWZug61UwQtWh4rIJ5J0wyeDtVoRgnqY",    authDomain: "resgister-da0b9.firebaseapp.com",    databaseURL: "https://resgister-da0b9.firebaseio.com",    projectId: "resgister-da0b9",    storageBucket: "",    messagingSenderId: "463161827695"};export default config;
