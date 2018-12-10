@@ -897,7 +897,7 @@ button,
         cursor: pointer; } }
     @media only screen and (min-width: 850px) {
       .social--icon {
-        font-size: 2rem; } }
+        font-size: 3rem; } }
     .social--icon:hover {
       -webkit-transform: scale(1.2);
               transform: scale(1.2);
@@ -1348,7 +1348,7 @@ button,
 .footer--catchphrase {
   max-width: 400px;
   text-align: justify;
-  font-size: 1rem;
+  font-size: 0.625rem;
   font-weight: 300;
   text-align: center;
   color: white;
@@ -1357,7 +1357,7 @@ button,
   margin: 0 auto 15px auto; }
   @media only screen and (min-width: 480px) {
     .footer--catchphrase {
-      font-size: 1rem; } }
+      font-size: 0.75rem; } }
 
 .modal {
   position: absolute;
