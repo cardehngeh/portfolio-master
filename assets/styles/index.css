@@ -718,7 +718,7 @@ button,
       margin-bottom: 0; }
       @media only screen and (min-width: 560px) {
         .hero--i-name {
-          font-size: 3rem; } }
+          font-size: 1.6rem; } }
   .hero--content {
     width: 100%;
     -webkit-box-sizing: border-box;
